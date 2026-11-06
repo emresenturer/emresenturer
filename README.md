@@ -17,7 +17,7 @@ Every link opens the live tool. Source is one click away.
 | Tool | What it does | Live | Source |
 |---|---|---|---|
 | **Voxhila** | AI video dubbing into 34 languages with matched lip sync | [voxhila.com](https://voxhila.com) | private |
-| **ShortStudio** | Drop a video; AI writes captions, hooks and platform copy and burns subtitles in | [Open](https://visionary-zuccutto-f7f805.netlify.app/) | [repo](https://github.com/emresenturer/ShortStudio) |
+| **ShortStudio** | Drop a video; AI writes captions, hooks and platform copy and burns subtitles in | [Open](https://emresenturer.github.io/ShortStudio/) | [repo](https://github.com/emresenturer/ShortStudio) |
 | **Lexicon** | Legal contract risk triage with human-in-the-loop routing and an audit trail | [Open](https://ai-lexicon.netlify.app/) | [repo](https://github.com/emresenturer/Lexicon) |
 | **PitchKit** | Cold pitch generator for freelancers and agencies | [Open](https://emresenturer.github.io/pitchkit/) | [repo](https://github.com/emresenturer/pitchkit) |
 | **WhatDoYouMean** | Communication analyzer for the texts you keep re-reading | [Open](https://emresenturer.github.io/WhatDoYouMean/) | [repo](https://github.com/emresenturer/WhatDoYouMean) |
